@@ -54,6 +54,7 @@ public class Login extends Activity implements OnClickListener{
     //JSON element ids from repsonse of php script:
     private static final String TAG_SUCCESS = "success";
     private static final String TAG_MESSAGE = "message";
+    private static final String NET_ERROR = "Error, your network provider has restricted access to this material!";
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -120,7 +121,9 @@ public class Login extends Activity implements OnClickListener{
 
                 if (json == null)
                 {
-                	Log.d("JSON ERROR: ", "Request unsuccessful, check age restrictions.");
+                	Log.d("Network Permissions!", NET_ERROR);
+                	return NET_ERROR;
+                	
                 }
                 else
                 {
