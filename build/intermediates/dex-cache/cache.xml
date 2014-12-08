@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-296f6764da685f47f4442751731bb09a10e6309e.jar"
+        jar="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/build/intermediates/pre-dexed/debug/classes-c2393ebc9aed4dbe1afb0a5abb9a8f966789300f.jar"
+        jar="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-152111d5cb4d7a17467ce0e511efbb33d2db5dce.jar"
+        jar="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/build/intermediates/pre-dexed/debug/classes-85081302118d9047bcd76a02e041c0acaa37e0be.jar"
+        jar="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+
+</pre-dex-items>

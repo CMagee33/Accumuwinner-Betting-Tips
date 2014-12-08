@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/res" />
+    </dataSet>
+    <dataSet config="20.0.0" >
+        <source path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res" >
+            <file
+                name="awlogo"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-hdpi/awlogo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bg"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-hdpi/bg.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="button_bg"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-hdpi/button_bg.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="edittext_bottom_bg"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-hdpi/edittext_bottom_bg.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="edittext_default_bg"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-hdpi/edittext_default_bg.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="edittext_top_bg"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-hdpi/edittext_top_bg.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="email"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-hdpi/email.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="linear_bg"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-hdpi/linear_bg.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="password"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-hdpi/password.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="phone"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-hdpi/phone.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="user"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-hdpi/user.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="home"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/layout/home.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="login"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/layout/login.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="register"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/layout/register.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="startscreen"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/layout/startscreen.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="login"
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/menu/login.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+
+                <style name="DefaultButtonText" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:textColor">
+#979797
+                    </item>
+                    <item name="android:gravity">
+center
+                    </item>
+                    <item name="android:layout_margin">
+3dp
+                    </item>
+                    <item name="android:textStyle">
+normal
+                    </item>
+                    <item name="android:textSize">
+20sp
+                    </item>
+                    <item name="android:shadowColor">
+#f9f9f9
+                    </item>
+                    <item name="android:shadowDx">
+1
+                    </item>
+                    <item name="android:shadowDy">
+1
+                    </item>
+                    <item name="android:shadowRadius">
+1
+                    </item>
+                </style>
+
+                <string name="app_name" >Accumuwinner
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+                </style>
+            </file>
+            <file
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/build/generated/res/rs/debug" />
+        <source path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/debug/res" />
+    </dataSet>
+
+</merger>
