@@ -1,23 +1,21 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@drawable/bg"
-    android:paddingTop="35dp" >
+    android:layout_height="match_parent">
 
-    <ImageView
-        android:id="@+id/imageView1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:src="@drawable/awlogo" />
+    <FrameLayout
+        android:id="@+id/main_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/hermes_middle"/>
+    <ListView android:id="@+id/drawer_list"
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:choiceMode="singleChoice"
+        android:divider="#A9A9A9"
+        android:dividerHeight="0dp"
+        android:background="#64000000"/>
 
-    <TextView
-        android:id="@+id/storedUser"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
-        android:text="" />
-
-</RelativeLayout><!-- From: file:/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/layout/home.xml -->
+</android.support.v4.widget.DrawerLayout><!-- From: file:/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/layout/home.xml -->

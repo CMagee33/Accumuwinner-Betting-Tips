@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#232526" />
+        </shape>
+    </item>
+    <item android:bottom="1dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#2D363C" />2D363C
+        </shape>
+    </item>
+</layer-list><!-- From: file:/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-hdpi/action_bar_bottom_line.xml -->

@@ -4,6 +4,31 @@
     <string name="app_name">Accumuwinner</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="prompt_email">Email</string>#
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="prompt_company">Company (Optional)</string>
+    <string name="prompt_password_create">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_sign_up_short">Sign up</string>
+
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+    <string name="project_title">Accumuwinner</string>
+
+
+
+    <string-array name="menu_items">
+        <item>Notifications</item>
+        <item>UserInsight</item>
+        <item>News Feed</item>
+        <item>Settings</item>
+        <item>Logout</item>
+    </string-array>
 
     <style name="DefaultButtonText">
 	   <item name="android:layout_width">fill_parent</item>

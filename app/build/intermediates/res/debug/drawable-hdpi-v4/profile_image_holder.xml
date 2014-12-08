@@ -1,0 +1,5 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:drawable="@drawable/circle"/>
+
+</layer-list><!-- From: file:/Users/mmckillion/Documents/AndroidStudioProjects/Accumuwinner-Betting-Tips/app/src/main/res/drawable-hdpi/profile_image_holder.xml -->
